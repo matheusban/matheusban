@@ -15,7 +15,7 @@ Atuando como Engenheiro de backend com domínio em **Java e Spring Boot**, micro
 
 ## Sobre mim
 
-Formado em Análise e Desenvolvimento de Sistemas e graduando em Engenharia da Computação. Minha trajetória reúne experiência em análise de sistemas, suporte técnico, infraestrutura e automação, com atendimento a ambientes corporativos de clientes como **LATAM, PagBank e Smart Fit** durante minha atuação na Konecta.
+Formado em Análise e Desenvolvimento de Sistemas e graduando Engenharia da Computação. Minha trajetória reúne experiência em análise de sistemas, suporte técnico, infraestrutura e automação, com atendimento a ambientes corporativos de clientes como **LATAM, PagBank e Smart Fit** durante minha atuação na Konecta.
 
 Sou Engenheiro de Software, em especialização em Java e no desenvolvimento de microserviços escaláveis com Spring Boot. Tenho sólidos conhecimentos em arquitetura de sistemas corporativos e estou em preparação ativa para a certificação Oracle Certified Professional (OCP) Java SE 17.
 
