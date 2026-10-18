@@ -50,23 +50,6 @@ Minha experiência em infraestrutura e operações inclui:
 - Administração de Jira Service Management (ESM).
 - Jira para gestão de projetos e produtividade.
 
-## Experiência profissional
-
-### Analista de TI Júnior — Konecta
-**Julho de 2025 a junho de 2026**
-
-- Atuação na administração de um ambiente com mais de 3.000 estações de trabalho.
-- Suporte remoto e presencial N1/N2, com diagnóstico e resolução de incidentes.
-- Administração de usuários, grupos, permissões e políticas no Active Directory.
-- Criação de scripts para coleta de logs, inventário, relatórios e automação.
-- Gestão de chamados e investigação técnica de problemas em aplicações.
-- Uso do Chrome DevTools para diagnóstico de incidentes web e análise de tráfego de rede.
-
-### Experiências anteriores
-
-- **Friozem Logística — Prestador de serviços autônomo (2021–2024):** gestão de transporte, planejamento de entregas e atendimento a clientes, com foco em organização e cumprimento de prazos.
-- **Aeronáutica — Militar Temporário (2017–2021):** gestão de ativos, procedimentos operacionais e coordenação de pequenas equipes.
-
 ## Formação acadêmica
 
 - **Engenharia da Computação — Universidade Anhanguera**  
